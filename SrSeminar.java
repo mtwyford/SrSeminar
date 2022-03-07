@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 public class SrSeminar {
 	 
-	//tutorial for importaing csv from https://www.javatpoint.com/how-to-convert-string-to-json-object-in-java
+	//tutorial for importaing csv from https://www.javatpoint.com/how-to-convert-string-to-json-object-in-java*
 	public static void main(String[] args) throws Exception  
 	{  
 		//array list to add every element into
@@ -33,7 +33,7 @@ public class SrSeminar {
 		//System.out.println(x); //prints ArrayList
 		
 		
-		//assuming the first appearance of the seminar is at index 3, given format of csvs is the same 
+		//assuming the first appearance of the seminar is at index 3, given format of csvs is the same *
 		String firstSeminar = x.get(3); 
 		
 		//making arrayList to be put in SrStudent class 
